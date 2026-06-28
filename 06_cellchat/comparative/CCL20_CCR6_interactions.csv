@@ -1,0 +1,7 @@
+"source","target","ligand","receptor","prob","pval","interaction_name","interaction_name_2","pathway_name","annotation","evidence","condition"
+"Monocytes","Tregs","CCL20","CCR6",7.59616639753504e-06,0,"CCL20_CCR6","CCL20 - CCR6","CCL","Secreted Signaling","KEGG: hsa04060","adjacent_LG"
+"CD4 T cells (Th)","CD4 T cells (Th)","CCL20","CCR6",0.000393977486636073,0,"CCL20_CCR6","CCL20 - CCR6","CCL","Secreted Signaling","KEGG: hsa04060","adjacent_HG"
+"Monocytes","CD4 T cells (Th)","CCL20","CCR6",5.6007520420711e-05,0,"CCL20_CCR6","CCL20 - CCR6","CCL","Secreted Signaling","KEGG: hsa04060","adjacent_HG"
+"CD4 T cells (Th)","Tregs","CCL20","CCR6",5.86867940953125e-05,0,"CCL20_CCR6","CCL20 - CCR6","CCL","Secreted Signaling","KEGG: hsa04060","adjacent_HG"
+"Monocytes","Tregs","CCL20","CCR6",8.35848558752975e-06,0,"CCL20_CCR6","CCL20 - CCR6","CCL","Secreted Signaling","KEGG: hsa04060","adjacent_HG"
+"Monocytes","CD4 T cells (Th)","CCL20","CCR6",2.24477934675697e-05,0,"CCL20_CCR6","CCL20 - CCR6","CCL","Secreted Signaling","KEGG: hsa04060","tumor_LG"

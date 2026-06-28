@@ -1,0 +1,6 @@
+"condition","n_interactions","total_strength","n_pathways"
+"normal",964,0.228952367519886,25
+"adjacent_LG",1263,0.48072643249885,35
+"adjacent_HG",1522,0.470792821487325,52
+"tumor_LG",1716,0.425745787384194,52
+"tumor_HG",1630,0.368495070582849,46
